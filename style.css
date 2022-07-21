@@ -8,7 +8,7 @@
  body{
     height: 100vh;
     width: 97vw;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.938);
     background-attachment: fixed;
 }
 body{
